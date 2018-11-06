@@ -5,8 +5,11 @@
 <head>
 <title>  Blog  </title>
 </head>
-
-
+<body background="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQw_qz2f7k0ICBCz0kDHwwtIMmL8YTkuRFw4j4a6niUrfI5PAC-Kg">
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+  
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
 
 <nav class="navbar navbar-inverse">
   <div class="container-fluid">
@@ -15,7 +18,7 @@
     </div>
     <ul class="nav navbar-nav">
       <li><a href="#">Home</a></li>
-      <li><a href="______">Blog</a></li>
+      <li><a href="https://htmlpreview.github.io/?https://github.com/Nini1/yum/blob/master/Blog">Blog</a></li>
       <li><a href="____">Projects</a></li>
       <li><a href="______">About Me</a></li>
       <li><a href="#">Portfolio/projects</a></li>
