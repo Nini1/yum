@@ -3,7 +3,7 @@
 <head>
 <title>Blog</title>
 </head>
-<body background="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1npqcsCDGLRL3FOzv79skg7zx_0K0IU6zbUv5I_dD-aupseLa">
+
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
   
@@ -50,7 +50,6 @@ ul2 {
 img {
 	align: right;
 }
-
 ul {
   align: center;
   }
@@ -58,19 +57,19 @@ ul {
 </head>
 <body>
 
-<h1>About Me</h1>
-<h2> Fun Fact!: *insert fun fact here* </h2>
+<h1>Blog</h1>
+<h2> Yum-Yum </h2>
 
 <BR CLEAR="left"/>
 <img src="https://image.flaticon.com/icons/png/512/37/37232.png" width="356" height="342" align="left">
 
 
-<h3> Profile: </h3>
-<p> Name: Anisah Moutra
-<br>
-Age: 17
-<br>
-Favorite Color: Turquoise 
+<h3> <font size="10"> Halloween Nights of Terror October 32, 2018: </h3>
+<h3> <font size="10"> Halloween Nights of Terror October 32, 2018: </h3>
+
+
+<p> The all known "Eat Watch & Play Dave and Busters part sports bar part resturaunt and part arcade has much to offer on its menu,
+but not much desert
 <br>
 Favorite Fruit: Pineapple 
 <br>
@@ -78,7 +77,7 @@ Favorite Fruit: Pineapple
 <p> <img src= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT79mP2HFEHJHVx9sqLEKlXsPfuO-8Ve50F_a6wM0aA29PIvcrxng" </p>
 Motto: Don't Be So Snooty Booty- Happy Feet
 
-<h3> Bio: </h3>
+<h3> What's Cooking Good Looking? </h3>
 <p> <font size="4"> My name is Anisah, but somethimes I go by Annie, or anything that isn't my name. I am a Senor at Da Vinci Design
 High School. (Or was in future tenses), Fun fact thanks to Girls Who Code I have been able to to self create this website.
 (I HIGHLY RECCOMEND IT TOO ALL!) Somethings I like to do include drawing, baking, and traveling. And some of my dislikes are bugs,
@@ -104,19 +103,6 @@ tomatoes, and anything that has to do with ___________.
     <li> Bugs </li>
     <li> Tomatoes </li>
 </ul>
-	
-	
-<img src="https://user-images.githubusercontent.com/29712528/27979458-1b013da2-632b-11e7-90ae-d2a002788b2c.png" width="325" height="245">
-
-<img src="https://user-images.githubusercontent.com/29712528/27981690-049c09e2-6345-11e7-9c00-cbe357d0befd.png" width="325" height="245">
-
-<img src="https://user-images.githubusercontent.com/29712528/27981654-2e7ef234-6344-11e7-966f-029ef36b1dc0.png" width="325" height="245">
-<img src="https://user-images.githubusercontent.com/29712528/27981680-b5513db2-6344-11e7-8870-3542d3a3f318.png" width="325" height="245">
-
-<p> On your left you will see a side scroller game. This was a game that me and my partner Itohan created during the first week of the program.
-The idea of the game is to have a sprite, a game player, to be moved from side to side to avoid the falling object: doughnuts.
-There was a tone of code involved when creating the side scrolling game, but in the end it was really fun and I'm so glad that it actually works!
-</p>
 	
 	
 a dividers tab-	<pre class="tab"></pre>
